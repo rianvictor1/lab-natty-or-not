@@ -1,7 +1,7 @@
 ### Template
 
 ```markdown
-# Projeções macroeconômicas utilizando econometria
+# Ebook para projeções macroeconômicas utilizando econometria
 
 ## 📒 Descrição
 Desenvolver um modelo econométrico para projeção de variáveis macroeconômicas, como inflação, taxa de juros, crescimento do PIB
