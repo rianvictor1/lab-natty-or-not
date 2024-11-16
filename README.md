@@ -1,32 +1,28 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeções macroeconômicas utilizando econometria
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto tem como objetivo desenvolver um modelo econométrico para projeção de variáveis macroeconômicas, como inflação, taxa de juros, crescimento do PIB e taxa de câmbio. Utilizando métodos estatísticos avançados, como regressões lineares, modelos de séries temporais (ARIMA, VAR, GARCH) e aprendizado de máquina, o projeto busca capturar padrões históricos e identificar relações entre variáveis explicativas e dependentes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Python
+GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Na etapa de pesquisa e coleta de dados, são utilizadas fontes confiáveis, como Banco Central, IBGE, IPEA e organismos internacionais, para reunir informações históricas relevantes. As ferramentas como APIs e bibliotecas de manipulação de dados (e.g., pandas no Python ou tidyverse no R) ajudam a consolidar os dados. Após a coleta, os dados são tratados para eliminar inconsistências, valores ausentes e outliers, além de serem analisados para identificar padrões, sazonalidades e correlações por meio de visualizações e estatísticas descritivas.
+
+
+Com os dados organizados, inicia-se a construção do modelo econométrico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Estimativas confiáveis para variáveis como inflação, taxa de juros, PIB e câmbio, com margem de erro controlada.
+Resultados robustos para curto, médio e longo prazo.
+Insights sobre tendências históricas e comportamentos cíclicos.
+Análise de sazonalidade e fatores que afetam as variáveis macroeconômicas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão 
+Melhoria na capacidade de antecipação a mudanças econômicas.
+Redução de incertezas e maior eficiência na alocação de recursos em cenários econômicos complexos.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
