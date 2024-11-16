@@ -4,7 +4,7 @@
 # Projeções macroeconômicas utilizando econometria
 
 ## 📒 Descrição
-O projeto tem como objetivo desenvolver um modelo econométrico para projeção de variáveis macroeconômicas, como inflação, taxa de juros, crescimento do PIB e taxa de câmbio. Utilizando métodos estatísticos avançados, como regressões lineares, modelos de séries temporais (ARIMA, VAR, GARCH) e aprendizado de máquina, o projeto busca capturar padrões históricos e identificar relações entre variáveis explicativas e dependentes.
+Desenvolver um modelo econométrico para projeção de variáveis macroeconômicas, como inflação, taxa de juros, crescimento do PIB e taxa de câmbio. Utilizando métodos estatísticos avançados, como regressões lineares, modelos de séries temporais (ARIMA, VAR, GARCH) e aprendizado de máquina, o projeto busca capturar padrões históricos e identificar relações entre variáveis explicativas e dependentes.
 
 ## 🤖 Tecnologias Utilizadas
 Python
